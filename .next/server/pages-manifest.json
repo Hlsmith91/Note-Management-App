@@ -1,0 +1,11 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/": "pages/index.js",
+  "/api/noteAttributes": "pages/api/noteAttributes.js",
+  "/api/notes": "pages/api/notes.js",
+  "/api/noteAttributes/[id]": "pages/api/noteAttributes/[id].js",
+  "/api/noteChangeLogs": "pages/api/noteChangeLogs.js",
+  "/api/notes/[id]": "pages/api/notes/[id].js"
+}
